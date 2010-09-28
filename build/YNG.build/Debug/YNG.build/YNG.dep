@@ -1,0 +1,10 @@
+f614b726ed6c3ef0bd376fd441ae3b1c 4eb3577486c9953d8821982b6fd93688 ffffffffffffffffffffffffffffffff 102 /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNG/build/Debug/YNG.app
+1a81dc3bf8a9c40ae53dc48355847c8a 829f661ced2653325958726089ee558c ffffffffffffffffffffffffffffffff 78300 /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNG/build/Debug/YNG.app/Contents/MacOS/YNG
+000000004ca225360000000000026862 1a81dc3bffb1e424e53dc48355ca5840 ffffffffffffffffffffffffffffffff 260864 /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNG/build/YNG.build/Debug/YNG.build/Objects-normal/i386/main.o
+000000004bba051700000000000000aa 552ac4baf0adf4defb8dc3dd49f3b490 ffffffffffffffffffffffffffffffff 170 /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNG/build/Debug/YNG.app/Contents/Frameworks/sfml-graphics.framework
+000000004bba051800000000000000aa ae660e591312908fd78169fbdde49fd8 ffffffffffffffffffffffffffffffff 170 /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNG/build/Debug/YNG.app/Contents/Frameworks/sfml-window.framework
+000000004bba051800000000000000aa 9ec9a5535ee597e152d90f174e2247a3 ffffffffffffffffffffffffffffffff 170 /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNG/build/Debug/YNG.app/Contents/Frameworks/sfml-system.framework
+00000000000000000000000000000000 0b8f62b10e035f6f7f877c0647f17e5b ffffffffffffffffffffffffffffffff 20243 /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNG/build/Debug/YNG.app/Contents/Resources/sprites.png
+00000000000000000000000000000000 8122e5990fbbfbee6d99eb907d3dde53 ffffffffffffffffffffffffffffffff 8 /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNG/build/Debug/YNG.app/Contents/PkgInfo
+00000000000000000000000000000000 8122e5990fbbfbee6d99eb907d3dde53 ffffffffffffffffffffffffffffffff 596 /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNG/build/Debug/YNG.app/Contents/Info.plist
+00000000000000000000000000000000 ae0b228094ab08fda75c964bfe77183a ffffffffffffffffffffffffffffffff 20243 /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNG/build/Debug/YNG.app/Contents/Resources/sprites_map_claudius.png

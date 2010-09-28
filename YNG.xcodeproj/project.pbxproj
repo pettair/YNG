@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1E074BB612525BCA00514705 /* sprites.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E074BB512525BCA00514705 /* sprites.png */; };
 		A0072ADE0F1D0EC500B4A594 /* sfml-system.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = A01FB6CB0F07CFF2000AAC7B /* sfml-system.framework */; };
 		A0072ADF0F1D0EC500B4A594 /* sfml-window.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = A01FB6CC0F07CFF2000AAC7B /* sfml-window.framework */; };
 		A0072AE00F1D0EC500B4A594 /* sfml-graphics.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = A01FB6CA0F07CFF2000AAC7B /* sfml-graphics.framework */; };
@@ -33,6 +34,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		1E074BB512525BCA00514705 /* sprites.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sprites.png; path = ../../../../../../Downloads/sprites.png; sourceTree = SOURCE_ROOT; };
 		A01FB6A90F07CF6E000AAC7B /* YNG.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YNG.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A01FB6AC0F07CF6E000AAC7B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A01FB6C80F07CFCE000AAC7B /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
@@ -88,6 +90,7 @@
 		A01FB6B10F07CF7C000AAC7B /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				1E074BB512525BCA00514705 /* sprites.png */,
 				A01FB6AC0F07CF6E000AAC7B /* Info.plist */,
 			);
 			name = Resources;
@@ -145,6 +148,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1E074BB612525BCA00514705 /* sprites.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
